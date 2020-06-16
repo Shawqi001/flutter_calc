@@ -1,2 +1,2 @@
-# flutter_calc
+# flutter calculator
 A simple calculator using #flutter
